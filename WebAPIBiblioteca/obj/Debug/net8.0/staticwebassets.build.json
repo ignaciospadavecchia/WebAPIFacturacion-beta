@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "+bVG/5NmBcAZbVIuEYN1p9kaVsRq7ce7DoS/12/LOFM=",
+  "Source": "WebAPIBiblioteca",
+  "BasePath": "_content/WebAPIBiblioteca",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPIBiblioteca\\wwwroot",
+      "Source": "WebAPIBiblioteca",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\",
+      "BasePath": "_content/WebAPIBiblioteca",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\Archivo.txt",
+      "SourceId": "WebAPIBiblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\",
+      "BasePath": "_content/WebAPIBiblioteca",
+      "RelativePath": "Archivo.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivo.txt"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\log.txt",
+      "SourceId": "WebAPIBiblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\",
+      "BasePath": "_content/WebAPIBiblioteca",
+      "RelativePath": "log.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\log.txt"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\logerrores.txt",
+      "SourceId": "WebAPIBiblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\",
+      "BasePath": "_content/WebAPIBiblioteca",
+      "RelativePath": "logerrores.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logerrores.txt"
+    }
+  ]
+}

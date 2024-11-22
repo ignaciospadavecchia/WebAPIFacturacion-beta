@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29BD38DC-17E8-4BCA-A183-E4AAAB91678A}|WebAPIFacturacion\\WebAPIFacturacion.csproj|c:\\users\\user\\desktop\\webapialmacen\\webapifacturacion\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BD38DC-17E8-4BCA-A183-E4AAAB91678A}|WebAPIFacturacion\\WebAPIFacturacion.csproj|solutionrelative:webapifacturacion\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FB08BD-02C0-49A1-B59E-73EAB4A12718}|WebAPIAlmacen\\WebAPIAlmacen.csproj|c:\\users\\user\\desktop\\webapialmacen\\webapialmacen\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FB08BD-02C0-49A1-B59E-73EAB4A12718}|WebAPIAlmacen\\WebAPIAlmacen.csproj|solutionrelative:webapialmacen\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FB08BD-02C0-49A1-B59E-73EAB4A12718}|WebAPIAlmacen\\WebAPIAlmacen.csproj|c:\\users\\user\\desktop\\webapialmacen\\webapialmacen\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FB08BD-02C0-49A1-B59E-73EAB4A12718}|WebAPIAlmacen\\WebAPIAlmacen.csproj|solutionrelative:webapialmacen\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FB08BD-02C0-49A1-B59E-73EAB4A12718}|WebAPIAlmacen\\WebAPIAlmacen.csproj|c:\\users\\user\\desktop\\webapialmacen\\webapialmacen\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FB08BD-02C0-49A1-B59E-73EAB4A12718}|WebAPIAlmacen\\WebAPIAlmacen.csproj|solutionrelative:webapialmacen\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BD38DC-17E8-4BCA-A183-E4AAAB91678A}|WebAPIFacturacion\\WebAPIFacturacion.csproj|c:\\users\\user\\desktop\\webapialmacen\\webapifacturacion\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BD38DC-17E8-4BCA-A183-E4AAAB91678A}|WebAPIFacturacion\\WebAPIFacturacion.csproj|solutionrelative:webapifacturacion\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FB08BD-02C0-49A1-B59E-73EAB4A12718}|WebAPIAlmacen\\WebAPIAlmacen.csproj|c:\\users\\user\\desktop\\webapialmacen\\webapialmacen\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FB08BD-02C0-49A1-B59E-73EAB4A12718}|WebAPIAlmacen\\WebAPIAlmacen.csproj|solutionrelative:webapialmacen\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FB08BD-02C0-49A1-B59E-73EAB4A12718}|WebAPIAlmacen\\WebAPIAlmacen.csproj|c:\\users\\user\\desktop\\webapialmacen\\webapialmacen\\controllers\\familiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FB08BD-02C0-49A1-B59E-73EAB4A12718}|WebAPIAlmacen\\WebAPIAlmacen.csproj|solutionrelative:webapialmacen\\controllers\\familiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 120,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 214,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIAlmacen\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "WebAPIAlmacen\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIAlmacen\\Models\\Producto.cs",
+              "RelativeToolTip": "WebAPIAlmacen\\Models\\Producto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:07:54.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIAlmacen\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "WebAPIAlmacen\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIAlmacen\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "WebAPIAlmacen\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:05:28.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIAlmacen\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "WebAPIAlmacen\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIAlmacen\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "WebAPIAlmacen\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAqwJoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:05:20.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIAlmacen\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPIAlmacen\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIAlmacen\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPIAlmacen\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:04:18.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FamiliasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIAlmacen\\Controllers\\FamiliasController.cs",
+              "RelativeDocumentMoniker": "WebAPIAlmacen\\Controllers\\FamiliasController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIAlmacen\\Controllers\\FamiliasController.cs",
+              "RelativeToolTip": "WebAPIAlmacen\\Controllers\\FamiliasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:05:00.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIFacturacion\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "WebAPIFacturacion\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIFacturacion\\Controllers\\ClientesController.cs*",
+              "RelativeToolTip": "WebAPIFacturacion\\Controllers\\ClientesController.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:06:57.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIFacturacion\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "WebAPIFacturacion\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIAlmacen\\WebAPIFacturacion\\Models\\Cliente.cs",
+              "RelativeToolTip": "WebAPIFacturacion\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:04:33.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

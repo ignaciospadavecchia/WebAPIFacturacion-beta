@@ -1,0 +1,663 @@
+[
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "WebAPIBiblioteca.DTOs.DTOUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.AutoresController",
+    "Method": "GetAutores",
+    "RelativePath": "api/Autores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.AutoresController",
+    "Method": "PostAutor",
+    "RelativePath": "api/Autores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "autor",
+        "Type": "WebAPIBiblioteca.DTOs.DTOAutor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.AutoresController",
+    "Method": "PutAutor",
+    "RelativePath": "api/Autores",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "autor",
+        "Type": "WebAPIBiblioteca.DTOs.DTOAutor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.AutoresController",
+    "Method": "GetAutorPorId",
+    "RelativePath": "api/Autores/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.AutoresController",
+    "Method": "DeleteAutor",
+    "RelativePath": "api/Autores/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.AutoresController",
+    "Method": "GetAutoresLibros",
+    "RelativePath": "api/Autores/autoreslibros/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.AutoresController",
+    "Method": "EliminarAutorPorSQL",
+    "RelativePath": "api/Autores/sql/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.AutoresController",
+    "Method": "GetTodosAutoresLibros",
+    "RelativePath": "api/Autores/todosautoreslibros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.EditorialesController",
+    "Method": "GetEditoriales",
+    "RelativePath": "api/Editoriales",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.EditorialesController",
+    "Method": "PostEditorial",
+    "RelativePath": "api/Editoriales",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "editorial",
+        "Type": "WebAPIBiblioteca.DTOs.DTOEditorial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.EditorialesController",
+    "Method": "PutEditorial",
+    "RelativePath": "api/Editoriales",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "editorial",
+        "Type": "WebAPIBiblioteca.DTOs.DTOEditorial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.EditorialesController",
+    "Method": "GetEditorialPorId",
+    "RelativePath": "api/Editoriales/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.EditorialesController",
+    "Method": "DeleteEditorial",
+    "RelativePath": "api/Editoriales/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.EditorialesController",
+    "Method": "GetEditorialesLibros",
+    "RelativePath": "api/Editoriales/editorialeslibros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.EditorialesController",
+    "Method": "ModificarEditoral",
+    "RelativePath": "api/Editoriales/sql",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "editorial",
+        "Type": "WebAPIBiblioteca.DTOs.DTOEditorial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "GetLibros",
+    "RelativePath": "api/Libros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "PostLibro",
+    "RelativePath": "api/Libros",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "libro",
+        "Type": "WebAPIBiblioteca.DTOs.DTOLibro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "DeleteLibro",
+    "RelativePath": "api/Libros/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "GetLibroPorIsbn",
+    "RelativePath": "api/Libros/{isbn}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "isbn",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "GetProductosPaginacion",
+    "RelativePath": "api/Libros/desdehasta/{desde}/{hasta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "desde",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "hasta",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "GetLibrosEntreDosPreciosQueryString",
+    "RelativePath": "api/Libros/entredosprecios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "desde",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "hasta",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "GetLibrosAsQueryable",
+    "RelativePath": "api/Libros/filtromultiple/asqueryable",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Precio",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descatalogado",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "PostProductos",
+    "RelativePath": "api/Libros/imagen",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Isbn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Titulo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Paginas",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Precio",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Foto",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "AutorId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "EditorialId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "PutProductos",
+    "RelativePath": "api/Libros/imagen",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Isbn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Titulo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Paginas",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Precio",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Foto",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "AutorId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "EditorialId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "DeleteLibrosImagen",
+    "RelativePath": "api/Libros/imagen/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "GetLibrosAgrupadosPorDescatalogado",
+    "RelativePath": "api/Libros/librosagrupadospordescatalogado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "GetFamiliasOrdenadasPorNombreAscDesc",
+    "RelativePath": "api/Libros/ordenadosportitulo/{direccion}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "direccion",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "GetLibrosTituloContieneTexto",
+    "RelativePath": "api/Libros/titulo/contiene/{texto}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "texto",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "PostLibros",
+    "RelativePath": "api/Libros/varios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "libros",
+        "Type": "System.Collections.Generic.List\u00601[[WebAPIBiblioteca.DTOs.DTOLibro, WebAPIBiblioteca, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "GetLibrosVenta",
+    "RelativePath": "api/Libros/venta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.OperacionesController",
+    "Method": "GetOperaciones",
+    "RelativePath": "api/Operaciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.UsuariosController",
+    "Method": "CheckUsuarioEncrypt",
+    "RelativePath": "api/Usuarios/encriptar/iniciarsesion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "WebAPIBiblioteca.DTOs.DTOUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.UsuariosController",
+    "Method": "RegisterUsuarioEncrypt",
+    "RelativePath": "api/Usuarios/encriptar/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "WebAPIBiblioteca.DTOs.DTOUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.UsuariosController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Usuarios/hash/cambiarpassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "WebAPIBiblioteca.DTOs.DTOUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.UsuariosController",
+    "Method": "CheckUsuarioHash",
+    "RelativePath": "api/Usuarios/hash/iniciarsesion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "WebAPIBiblioteca.DTOs.DTOUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.UsuariosController",
+    "Method": "PostNuevoUsuarioHash",
+    "RelativePath": "api/Usuarios/hash/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "WebAPIBiblioteca.DTOs.DTOUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.UsuariosController",
+    "Method": "LinkChangePassword",
+    "RelativePath": "api/Usuarios/linkchangepassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.UsuariosController",
+    "Method": "LinkChangePasswordHash",
+    "RelativePath": "changepassword/{textoEnlace}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "textoEnlace",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIBiblioteca.Controllers.LibrosController",
+    "Method": "GetLibrosAbsoluta",
+    "RelativePath": "libros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
